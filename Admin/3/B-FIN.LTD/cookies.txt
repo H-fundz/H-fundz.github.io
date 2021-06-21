@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hybridminers.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+hybridminers.com	TRUE	/	FALSE	1999999999	PHPSESSID	7d8aqnrd8o37ii77gs39o9qkh4
+

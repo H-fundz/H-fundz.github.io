@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:07:53	202/202	---M--	302	error ('Found')	text/html	date:Mon,%2007%20Jun%202021%2001:07:58%20GMT	http://b-fin.ltd/	C:/Users/FUNDZ2/Desktop/hybrid%20works/flutter/TO%20THE%20WORLD/b-fin.ltd/index.html	(from )
+19:07:53	0/0	---M--	200	added ('OK')	text/plain	date:Mon,%2007%20Jun%202021%2001:07:59%20GMT	http://b-fin.ltd/robots.txt		(from )

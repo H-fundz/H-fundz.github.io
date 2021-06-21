@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:03:43	1238/1238	---M--	404	error ('Not%20Found')	text/html	date:Mon,%2007%20Jun%202021%2001:03:48%20GMT	http://hybridminers.com/robots.txt		(from )
+19:03:44	0/0	---M--	302	error ('Found')	text/html	date:Mon,%2007%20Jun%202021%2001:03:50%20GMT	http://hybridminers.com/	C:/Users/FUNDZ2/Desktop/hybrid%20works/flutter/B-FIN.LTD/hybridminers.com/index.html	(from )
